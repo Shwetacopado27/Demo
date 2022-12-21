@@ -7,5 +7,4 @@
     <tabs>standard-AppLauncher</tabs>
     <tabs>standard-Quote</tabs>
     <tabs>MobileLanding</tabs>
-    <tabs>copado__Compliance_Rule_Criteria__c</tabs>
 </CustomApplication>
